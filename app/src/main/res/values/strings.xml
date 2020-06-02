@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Register_App</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="email">E-mail</string>
+    <string name="mobileno">Mobile No</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="password">Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="register">REGISTER</string>
+    <string name="nav_header_title">header</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">LogOut</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">AboutUs</string>
+    <string name="menu_slideshow">ContactUs</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="invalidename">Please enter firstName</string>
+    <string name="invalidelastname">Please enter lastname</string>
+    <string name="invalidateemail">Please enter valid Mobile Number</string>
+    <string name="invalite_mobile">Please enter valid Mobile Number</string>
+    <string name="invalide_password">Enter Valid Password</string>
+    <string name="invalide_C_password">Password doen\'t match</string>
+    <string name="invalide_state">Please Enter State</string>
+    <string name="invalide_city">Please Enter City</string>
+</resources>
